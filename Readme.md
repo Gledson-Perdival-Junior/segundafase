@@ -75,22 +75,13 @@
    npm install
 ```
 
-### 3. Configure as variáveis de ambiente
-
-- Crie um arquivo ```.env``` na raiz do projeto.
-- Variáveis para cadastrar no (.env):
-MONGO_USER=kaiovitor0707
-MONGO_PASSWORD=DtjRuQMesbMJngkF
-MONGO_DB=Login
-PORT=3000
-
-### 4. Execute o servidor em modo de desenvolvimento
+### 5. Execute o servidor em modo de desenvolvimento
 
 ```
    npm run dev
 ```
 
-### 5. Acesse a aplicação no navegador
+### 6. Acesse a aplicação no navegador
 
 ```
 http://localhost:3000
